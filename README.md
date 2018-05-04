@@ -1,0 +1,1 @@
+This is a demo project meant for learning how to move repository from gitlab to gerrit.
